@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Manish! 👋
 
-<!--
-**manish079/manish079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning Data Structure and Web developement
+- 💬 Ask me about Native Android developement and Frontend Technologies(HTML, CSS, JS, React).
+- 📫 How to reach me: manishprajapat492@gmail.com
+- 😄 Pronouns: He/His
 
-Here are some ideas to get you started:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=manish079&show_icons=true&theme=radical"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+

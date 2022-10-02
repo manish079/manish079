@@ -19,8 +19,8 @@
  
 <b>My GitHub Stats</b>          
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=manish079&show_icons=true&theme=radical"/>
-<a href="http://www.github.com/manish079"><img align = "right" width="44%" height="22%" src="https://github-readme-streak-stats.herokuapp.com/?user=manish079&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img align="left" width="50%" height="26%" src="https://github-readme-stats.vercel.app/api?username=manish079&show_icons=true&theme=radical"/>
+<a href="http://www.github.com/manish079"><img align = "right" width="46%" height="26%" src="https://github-readme-streak-stats.herokuapp.com/?user=manish079&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/manish079"><img src="https://activity-graph.herokuapp.com/graph?username=manish079&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

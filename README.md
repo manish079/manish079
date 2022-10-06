@@ -1,9 +1,8 @@
 ### Hi there, I'm Manish! 👋
 
-- 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning Data Structure and Web developement
-- 💬 Ask me about Native Android developement and Frontend Technologies(HTML, CSS, JS, React).
-- 🤝  I'm open to collaborating on interesting Android projects and Web Projects.
+- 💬 Ask me about Native Android developement
+- 🤝  I'm open to collaborating on interesting Android projects.
 - 📫 How to reach me: manishprajapat492@gmail.com
 - 😄 Pronouns: He/His
 

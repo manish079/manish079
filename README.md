@@ -3,16 +3,16 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ### I'm a Computer Science and Engineering Graduate  
 
 - 🧑‍💻I am a self driven passionate coder who loves to solve problems and write efficient codes.
-- 🌱 I’m currently learning ReactJs and Data Structure and algorithm
+- 🌱 I’m currently working in Python(DJango) and ReactJs.
 - 📚 Exploring web technologies
-- 👯 I am looking forward to collaborate on Open-Source Projects.
-- 👨‍💻 All of my projects are available at https://manish-live-portfolio.netlify.app/
+- 👯 I am looking forward to collaborating on Open-Source Projects.
+- 👨‍💻 All of my projects are available at https://manish-prajapat-portfolio.netlify.app/
 - 📫 How to reach me manishprajapat492@gmail.com
 - 😄 Pronouns: He/His
 
 #### Languages 🛠 
 
- <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
 #### Web Technology
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +20,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!-- ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) -->
@@ -36,7 +37,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 
 #### Familiar With
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 

@@ -50,7 +50,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
                       
  #### Github Analytics
  
-<!--<img align="center" width="50%" height="26%" src="https://github-readme-stats.vercel.app/api?username=manish079&show_icons=true&theme=radical"/>-->
+<img align="center" width="50%" height="26%" src="https://github-readme-stats.vercel.app/api?username=manish079&show_icons=true&theme=radical"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">

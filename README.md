@@ -2,11 +2,9 @@
 First of all, thanks for visiting my profile. Here, what you should know about me:
 ### I'm a Computer Science and Engineering Graduate  
 
-- 🧑‍💻I am a self driven passionate coder who loves to solve problems and write efficient codes.
-- 🌱 I’m currently working in Python(DJango) and ReactJs.
-- 📚 Exploring web technologies
-- 👯 I am looking forward to collaborating on Open-Source Projects.
-- 👨‍💻 All of my projects are available at https://manish-prajapat-portfolio.netlify.app/
+- 💼 Software Engineer with 2+ years of experience working in startups and product-based environments.
+- 🛠️ Strong experience in backend development and building RESTful APIs
+- 👯 Currently learning FastAPI, system design, and production-ready backend practices
 - 📫 How to reach me manishprajapat492@gmail.com
 - 😄 Pronouns: He/His
 

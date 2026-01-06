@@ -4,7 +4,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 - 💼 Software Engineer with 2+ years of experience working in startups and product-based environments.
 - 🛠️ Strong experience in backend development and building RESTful APIs
-- 👯 Currently learning FastAPI, system design, and production-ready backend practices
+- 👯 Currently learning buidling agents, system design and production-ready code practices
 - 📫 How to reach me manishprajapat492@gmail.com
 - 😄 Pronouns: He/His
 
